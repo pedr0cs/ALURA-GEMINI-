@@ -1,0 +1,34 @@
+[
+{
+    "nome":"Black Swan",
+    "artista": "BTS",
+    "descricao": "É uma obra de arte performática e melancólica. A faixa explora o medo mais profundo de um artista: perder a paixão pela sua arte. Com uma sonoridade sombria, baseada em cordas orquestrais e um trap suave, ela questiona se o silêncio do palco pode ser a primeira morte de um artista",
+    "ano": "2020",
+    "link":"https://open.spotify.com/intl-pt/track/4rJCLuxzWdZgn7qAg8uACX?si=9c260906550642c2",
+    "imagemUrl": "img/black-swan.jpg"
+},
+{
+    "nome": "Magic Shop",
+    "artista": "BTS",
+    "descricao": " É uma canção de conforto dedicada aos fãs, onde o grupo convida o ouvinte a entrar em sua loja mágica interior para trocar medos e inseguranças por esperança e força.",
+    "ano": "2018",
+    "link": "https://open.spotify.com/intl-pt/track/5MTGPkmiUuud9NkA0sl2nI?si=235cfcfd784341be",
+    "imagemUrl": "img/magic-shop.jpg"
+},
+{
+    "nome": "Permission to dance",
+    "artista": "BTS",
+    "descricao": "Foi um hino pop otimista e contagiante durante o COVID 19. Com uma sonoridade leve de verão, a música transmite uma mensagem de esperança e encorajamento, lembrando a todos (usando até mesmo liguagens de sinais) que não é preciso permissão para dança ser feliz ou superar tempos difíceis. É marcada por coreografias inclusivas e vibrantes.",
+    "ano": "2021",
+    "link": "https://open.spotify.com/intl-pt/track/3XYRV7ZSHqIRDG87DKTtry?si=333e9e276dda44c2",
+    "imagemUrl": "img/ptd.jpg"
+},
+{
+    "nome": "134340",
+    "artista": "BTS",
+    "descricao": "Sendo o numero oficial de Plutão logo após ele ser rebaixado para planeta anão. A musica fala sobre o sentimento de um termino e se manter orbitando a vida de alguem que o rebaixou",
+    "ano": "2018",
+    "link": "https://open.spotify.com/intl-pt/track/1MX0g22bQkr9HDVe37fLnN?si=968b1faecdbc417a",
+    "imagemUrl": "img/134340.jpg"
+}
+]
