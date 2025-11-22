@@ -1,0 +1,2 @@
+Este projeto é uma aplicação web de página única (Single-Page Application) desenvolvida para apresentar uma lista curada de 25 filmes clássicos de Natal. A interface é limpa, moderna e totalmente responsiva, permitindo que os usuários explorem a lista de filmes, busquem por títulos específicos e encontrem links diretos para assisti-los em suas respectivas plataformas de streaming. O objetivo é oferecer uma experiência de usuário fluida e agradável, combinando dados externos com uma interface dinâmica e interativa.
+
