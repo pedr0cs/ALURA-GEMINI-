@@ -1,34 +1,177 @@
 [
-{
-    "nome":"Black Swan",
-    "artista": "BTS",
-    "descricao": "É uma obra de arte performática e melancólica. A faixa explora o medo mais profundo de um artista: perder a paixão pela sua arte. Com uma sonoridade sombria, baseada em cordas orquestrais e um trap suave, ela questiona se o silêncio do palco pode ser a primeira morte de um artista",
-    "ano": "2020",
-    "link":"https://open.spotify.com/intl-pt/track/4rJCLuxzWdZgn7qAg8uACX?si=9c260906550642c2",
-    "imagemUrl": "img/black-swan.jpg"
-},
-{
-    "nome": "Magic Shop",
-    "artista": "BTS",
-    "descricao": " É uma canção de conforto dedicada aos fãs, onde o grupo convida o ouvinte a entrar em sua loja mágica interior para trocar medos e inseguranças por esperança e força.",
-    "ano": "2018",
-    "link": "https://open.spotify.com/intl-pt/track/5MTGPkmiUuud9NkA0sl2nI?si=235cfcfd784341be",
-    "imagemUrl": "img/magic-shop.jpg"
-},
-{
-    "nome": "Permission to dance",
-    "artista": "BTS",
-    "descricao": "Foi um hino pop otimista e contagiante durante o COVID 19. Com uma sonoridade leve de verão, a música transmite uma mensagem de esperança e encorajamento, lembrando a todos (usando até mesmo liguagens de sinais) que não é preciso permissão para dança ser feliz ou superar tempos difíceis. É marcada por coreografias inclusivas e vibrantes.",
-    "ano": "2021",
-    "link": "https://open.spotify.com/intl-pt/track/3XYRV7ZSHqIRDG87DKTtry?si=333e9e276dda44c2",
-    "imagemUrl": "img/ptd.jpg"
-},
-{
-    "nome": "134340",
-    "artista": "BTS",
-    "descricao": "Sendo o numero oficial de Plutão logo após ele ser rebaixado para planeta anão. A musica fala sobre o sentimento de um termino e se manter orbitando a vida de alguem que o rebaixou",
-    "ano": "2018",
-    "link": "https://open.spotify.com/intl-pt/track/1MX0g22bQkr9HDVe37fLnN?si=968b1faecdbc417a",
-    "imagemUrl": "img/134340.jpg"
-}
+    {
+        "nome":"Esqueceram de Mim",
+        "descricao": "Um garoto de oito anos é acidentalmente deixado para trás quando sua família parte para as férias de Natal e ele precisa proteger sua casa de dois ladrões.",
+        "ano": "1990",
+        "link":"https://www.disneyplus.com",
+        "imagemUrl": "img/HomeAlone.jpg"
+    },
+    {
+        "nome": "O Grinch",
+        "descricao": "Uma criatura verde e mal-humorada que odeia o Natal planeja arruinar a celebração para todos os moradores de Quemlândia.",
+        "ano": "2000",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/grinch.jpg"
+    },
+    {
+        "nome": "Um Duende em Nova York",
+        "descricao": "Um humano criado como elfo no Polo Norte viaja para Nova York em busca de seu verdadeiro pai, espalhando o espírito natalino por onde passa.",
+        "ano": "2003",
+        "link": "https://www.max.com",
+        "imagemUrl": "img/magic-shop.jpg"
+    },
+    {
+        "nome": "O Expresso Polar",
+        "descricao": "Na véspera de Natal, um garoto cético embarca em um trem mágico que o leva ao Polo Norte e à casa do Papai Noel.",
+        "ano": "2004",
+        "link": "https://www.max.com",
+        "imagemUrl": "img/exppolar.jpg"
+    },
+    {
+        "nome": "A Felicidade Não Se Compra",
+        "descricao": "Um anjo é enviado do céu para ajudar um empresário frustrado e compassivo, mostrando-lhe como seria a vida se ele nunca tivesse existido.",
+        "ano": "1946",
+        "link": "https://www.looke.com.br",
+        "imagemUrl": "img/afelic.jpg"
+    },
+    {
+        "nome": "Simplesmente Amor",
+        "descricao": "Nove histórias entrelaçadas examinam as complexidades do único sentimento que conecta a todos nós: o amor. Tudo durante o frenesi de Natal em Londres.",
+        "ano": "2003",
+        "link": "https://www.primevideo.com",
+        "imagemUrl": "img/simamor.jpg"
+    },
+    {
+        "nome": "O Estranho Mundo de Jack",
+        "descricao": "Jack Skellington, o rei da Cidade do Halloween, descobre a Cidade do Natal, mas sua tentativa de trazer o Natal para casa causa confusão.",
+        "ano": "1993",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/estranho.jpg"
+    },
+    {
+        "nome": "Meu Papai é Noel",
+        "descricao": "Um homem acidentalmente faz Papai Noel cair de seu telhado e é magicamente recrutado para tomar seu lugar.",
+        "ano": "1994",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/noel.jpg"
+    },
+    {
+        "nome": "Esqueceram de Mim 2: Perdido em Nova York",
+        "descricao": "Um ano depois, Kevin McCallister se perde em Nova York e, novamente, precisa se defender dos mesmos ladrões.",
+        "ano": "1992",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/esque2.jpg"
+    },
+    {
+        "nome": "Um Herói de Brinquedo",
+        "descricao": "Um pai decide comprar o brinquedo mais popular do Natal para seu filho na última hora, embarcando em uma odisseia caótica.",
+        "ano": "1996",
+        "link": "https://www.starplus.com",
+        "imagemUrl": "img/heroi.jpg"
+    },
+    {
+        "nome": "O Amor Não Tira Férias",
+        "descricao": "Duas mulheres com problemas amorosos trocam de casa em seus respectivos países, onde cada uma conhece um homem local e se apaixona.",
+        "ano": "2006",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/ferias.jpg"
+    },
+    {
+        "nome": "Crônicas de Natal",
+        "descricao": "A história dos irmãos Kate e Teddy Pierce, cujo plano de véspera de Natal para flagrar o Papai Noel se transforma em uma jornada inesperada.",
+        "ano": "2018",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/cronicas.jpg"
+    },
+    {
+        "nome": "Klaus",
+        "descricao": "Um carteiro egoísta e um fabricante de brinquedos solitário formam uma amizade improvável, trazendo alegria a uma cidade fria e sombria.",
+        "ano": "2019",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/klaus.jpg"
+    },
+    {
+        "nome": "Férias Frustradas de Natal",
+        "descricao": "Os planos de Clark Griswold para um grande Natal em família se transformam em um grande desastre.",
+        "ano": "1989",
+        "link": "https://www.max.com",
+        "imagemUrl": "img/frustado.jpg"
+    },
+    {
+        "nome": "Milagre na Rua 34",
+        "descricao": "Um velhinho que afirma ser o Papai Noel é institucionalizado como louco, e um jovem advogado decide defendê-lo no tribunal.",
+        "ano": "1947",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/milagre.jpg"
+    },
+    {
+        "nome": "Um Conto de Natal dos Muppets",
+        "descricao": "Os Muppets apresentam sua versão do clássico conto de Charles Dickens sobre um velho avarento que precisa aprender o verdadeiro significado do Natal.",
+        "ano": "1992",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/muppets.jpg"
+    },
+    {
+        "nome": "Os Fantasmas de Scrooge",
+        "descricao": "O milionário Ebenezer Scrooge, que despreza o Natal, recebe a visita de três fantasmas que o fazem refletir sobre seu passado, presente e futuro para se tornar uma pessoa melhor.",
+        "ano": "2009",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/scrooge.jpg"
+    },
+    {
+        "nome": "Gremlins",
+        "descricao": "Um rapaz quebra inadvertidamente três regras importantes sobre seu novo animal de estimação e libera uma horda de monstrinhos maliciosos em uma pequena cidade.",
+        "ano": "1984",
+        "link": "https://www.max.com",
+        "imagemUrl": "img/gremlins.jpg"
+    },
+    {
+        "nome": "Alguém Avisa?",
+        "descricao": "Uma jovem planeja pedir sua namorada em casamento durante a festa de Natal da família dela, mas descobre que a namorada ainda não contou aos pais conservadores sobre sua orientação sexual.",
+        "ano": "2020",
+        "link": "https://www.primevideo.com",
+        "imagemUrl": "img/season.jpg"
+    },
+    {
+        "nome": "Um Menino Chamado Natal",
+        "descricao": "O jovem Nikolas embarca em uma aventura extraordinária na nevada do norte em busca de seu pai, que está em uma missão para descobrir a lendária aldeia dos elfos, Elfhelm.",
+        "ano": "2021",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/menino.jpg"
+    },
+    {
+        "nome": "Uma Invenção de Natal",
+        "descricao": "Décadas depois da traição de seu aprendiz, um fabricante de brinquedos encontra uma nova esperança quando sua neta gentil e curiosa aparece em sua vida.",
+        "ano": "2020",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/invencao.jpg"
+    },
+    {
+        "nome": "O Diário de Noel",
+        "descricao": "Ao limpar a casa de sua infância no Natal, um romancista conhece uma mulher em busca de sua mãe biológica. Um velho diário irá abrir as portas para o passado e para seus corações?",
+        "ano": "2022",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/diario.jpg"
+    },
+    {
+        "nome": "Um Match Surpresa",
+        "descricao": "Uma garota de Los Angeles, sem sorte no amor, se apaixona por um cara da Costa Leste em um aplicativo de namoro e decide surpreendê-lo no Natal, apenas para descobrir que foi enganada.",
+        "ano": "2021",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/match.jpg"
+    },
+    {
+        "nome": "A Princesa e a Plebeia",
+        "descricao": "Uma confeiteira de Chicago e uma futura princesa descobrem que são idênticas e trocam de lugar durante o Natal.",
+        "ano": "2018",
+        "link": "https://www.netflix.com",
+        "imagemUrl": "img/princesa.jpg"
+    },
+    {
+        "nome": "Noelle",
+        "descricao": "A filha do Papai Noel é forçada a assumir o negócio da família quando seu irmão, Nick, fica sob pressão e desaparece.",
+        "ano": "2019",
+        "link": "https://www.disneyplus.com",
+        "imagemUrl": "img/noelle.jpg"
+    }
 ]

@@ -32,19 +32,18 @@ async function iniciarBusca() {
     renderizarCards(resultadosFiltrados);
 }
 
-function renderizarCards(musicas){
+function renderizarCards(itens){
     cardContainer.innerHTML = ""; // Limpa os resultados anteriores
-    for (let musica of musicas){
+    for (let item of itens){
         let article = document.createElement("article");
         article.classList.add("card");  
         article.innerHTML = `
-        <img src="${musica.imagemUrl}" alt="Capa da música ${musica.nome}" class="card-imagem">
+        <img src="${item.imagemUrl}" alt="Pôster do filme ${item.nome}" class="card-imagem">
         <div class="card-conteudo">
-            <h2>${musica.nome}</h2>
-            <p>${musica.artista}</p>
-            <p>${musica.descricao}</p>
-            <p>${musica.ano}</p>
-            <a href="${musica.link}" target="_blank">OUVIR</a>
+            <h2>${item.nome}</h2>
+            <p>${item.descricao}</p>
+            <p>Ano: ${item.ano}</p>
+            <a href="${item.link}" target="_blank">ASSISTIR</a>
         </div>
         `
          cardContainer.appendChild(article);

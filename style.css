@@ -5,7 +5,7 @@
 }
 
 :root {
-    --primary-color: #9D4EDD; /* Roxo principal */
+    --primary-color: #2972e0; /* Roxo principal */
     --secondary-color: #E0E0E0; /* Cinza claro para texto */
     --tertiary-color: #6c757d; /* Cinza para placeholders */
     --bg-color: #000000; /* Preto */
@@ -204,6 +204,12 @@ article a:hover {
     text-decoration: none; /* Remove o sublinhado */
     cursor: pointer; /* Garante que o cursor seja um ponteiro */
     transition: color 0.2s; /* Transição suave para a cor */
+}
+
+.footer-links a i {
+    margin-right: 8px; /* Adiciona um espaço entre o ícone e o texto */
+    font-size: 1rem; /* Ajusta o tamanho do ícone para combinar com o texto */
+    vertical-align: middle; /* Alinha o ícone verticalmente com o texto */
 }
 
 .footer-links a:hover {
